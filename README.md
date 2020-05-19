@@ -34,7 +34,16 @@ How to Install
 
 Open Note Scanner is available for simplified installation on [Google Play Store](https://play.google.com/store/apps/details?id=com.todobom.opennotescanner), from [Amazon App Store](http://www.amazon.com/Claudemir-Todo-Bom-Open-Scanner/dp/B01EUAU924) and also from [F-Droid Android Open Source Repository](https://f-droid.org/repository/browse/?fdid=com.todobom.opennotescanner).
 
-[<img alt="Get it on Google Play" height="60" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" />](https://play.google.com/store/apps/details?id=com.todobom.opennotescanner&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1) [![Get it on F-Droid](https://f-droid.org/wiki/images/0/06/F-Droid-button_get-it-on.png)](https://f-droid.org/repository/browse/?fdid=com.todobom.opennotescanner) [<img alt="Available at Amazon App Store" height="60" src="https://images-na.ssl-images-amazon.com/images/G/01/mobile-apps/devportal2/res/images/amazon-underground-app-us-black.png" />](http://www.amazon.com/Claudemir-Todo-Bom-Open-Scanner/dp/B01EUAU924)
+[<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
+    alt="Get it on Google Play"
+    height="60"/>](https://play.google.com/store/apps/details?id=com.todobom.opennotescanner)
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
+    alt="Get it on F-Droid"
+    height="60">](https://f-droid.org/packages/com.todobom.opennotescanner)
+ [<img src="https://images-na.ssl-images-amazon.com/images/G/01/mobile-apps/devportal2/res/images/amazon-underground-app-us-black.png"
+    alt="Available at Amazon App Store"
+    height="40"
+    />](http://www.amazon.com/Claudemir-Todo-Bom-Open-Scanner/dp/B01EUAU924)
 
 Binary APK file is available [directly from GitHub in the releases section](https://github.com/ctodobom/OpenNoteScanner/releases) of the project.
 
